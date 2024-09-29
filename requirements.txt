@@ -4,3 +4,6 @@ torch==2.2.0
 torchvision==0.17.0
 pillow==10.2.0
 ultralytics==8.1.16
+Werkzeug==2.3.7
+python-magic==0.4.27
+imageio==2.31.0
